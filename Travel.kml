@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Travel</name>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Sewri Fort</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8601265,19.0006679,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sewri Mangrove Park</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8616328,18.9955741,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lalbaugcha Raja</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8358736,18.990991,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nehru Science Centre</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8188735,18.9907908,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nehru Planetarium</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8147973,18.9900593,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Haji Ali Dargah</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8089155,18.9827277,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shree Mahalakshmi Temple</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.806366,18.9773273,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Malabar Point</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.7939903,18.9410956,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tower of Silence</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8071484,18.9618182,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mumbai Chowpatty Beach</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8138818,18.9547494,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nariman Point, Mumbai, Maharashtra</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8185968,18.9256665,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Mumbai friend tower</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8101694,18.9167243,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prongs Reef</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8099282,18.8939971,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oyster Rock</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8273733,18.902382,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gateway Of India Mumbai</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8346543,18.9219841,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mumbai Cruise Pirs</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8438449,18.9306413,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marine Drive</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8232203,18.9331184,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wankhede Stadium Mumbai</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.825764,18.9388528,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cross Island View</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8517409,18.9481041,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Worli Fort</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8168,19.0237125,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bandra Worli Sea Link</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.81478,19.026613,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bandra Fort</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8183594,19.0418892,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bandra Sea View</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.821968,19.061267,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sion Fort</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8676819,19.0465923,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cubic Mall</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.9031452,19.0454325,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Siddhivinayak Temple</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8699189,19.0432033,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Phoenix Marketcity, Mumbai</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8889774,19.0863795,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Juhu Beach</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8264476,19.0974187,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Infiniti Mall</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8309064,19.1412127,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Madh Mangroves</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.7971754,19.1568238,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NNP Waterfall</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8869637,19.1776725,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kanheri Caves</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.9068504,19.2058509,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>R City Mall</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.9163939,19.0996854,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sunset Point</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.985586,19.094029,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mahakali Caves</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8731738,19.1300798,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Movietime: The Hub Mall</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8563244,19.1547735,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sanjay Gandhi National Park</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.9181784,19.2288092,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tigers Zone. National Park</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.9250946,19.2576008,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jamdar Pada Dam</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8022129,19.2565962,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Panju island beach</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.8416752,19.3380893,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bird Watching Area, Bhandup West</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.9646284,19.1419055,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kokanipada Waterfall</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.9578488,19.2397227,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Suraj Water Park</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.9706659,19.254564,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ovalekar Wadi Butterfly Garden</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.9553997,19.2700734,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vihar Lake</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          72.9016582,19.1540558,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sarsole Boating</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.00115,19.0496075,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Nerul's Flamingo Point]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.006015,19.0165703,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kharghar Hills View Point</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0471177,19.0494265,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parsik Mountain Range</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          73.0461813,19.080662,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
